@@ -1,0 +1,1 @@
+print('nhin cai gi ma nhin')
