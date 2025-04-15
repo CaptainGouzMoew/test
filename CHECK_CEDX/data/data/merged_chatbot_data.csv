@@ -1,0 +1,936 @@
+Request time,User ID,Username,User says,Bot understands,Confidence,Details,Bot handles,Suggestions,Bot answer text,Bot answer script,Reply time (seconds),Reaction,Business,Business Field,Field
+8/13/2020 15:41,1828025,None,[khuyến mại],,,,Buttons clicked,,"Cảm ơn bạn đã quan tâm. Hiện tại Honda Việt Nam chưa có chương trình khuyến mại nào. Bạn liên hệ đến Đại lý ô tô Honda để tham khảo chương trình khuyến mại riêng của Đại lý nhé.
+","{""type"": ""text"", ""content"": {""text"": ""Cảm ơn bạn đã quan tâm. Hiện tại Honda Việt Nam chưa có chương trình khuyến mại nào. Bạn liên hệ đến Đại lý ô tô Honda để tham khảo chương trình khuyến mại riêng của Đại lý nhé.""}}",0.09,0,Other,AM,Product
+8/13/2020 15:41,1828025,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:41,762147,ha thi biên,[Mua xe Vision và Wave Alpha],,,,Buttons clicked,,"Honda Việt Nam triển khai chương trình: ""Chọn Honda yêu, Quà chuẩn đúng điệu"" như sau:
+✔Thời gian: Từ 01/08/2020 đến hết 30/09/2020.
+✔Đối tượng: Khách hàng mua Honda Wave Alpha và Honda Vision tại HEAD hoặc các Cửa hàng bán xe máy tổng hợp trên toàn quốc (căn cứ theo ngày ghi trên Hóa đơn bán lẻ tại các HEAD và Cửa hàng bán xe máy tổng hợp)
+","{""type"": ""text"", ""content"": {""text"": ""Honda Việt Nam triển khai chương trình: \""Chọn Honda yêu, Quà chuẩn đúng điệu\"" như sau:\n✔Thời gian: Từ 01/08/2020 đến hết 30/09/2020.\n✔Đối tượng: Khách hàng mua Honda Wave Alpha và Honda Vision tại HEAD hoặc các Cửa hàng bán xe máy tổng hợp trên toàn quốc (căn cứ theo ngày ghi trên Hóa đơn bán lẻ tại các HEAD và Cửa hàng bán xe máy tổng hợp)""}}",0.1,0,Other,MC,Product
+8/13/2020 15:41,762147,ha thi biên,[Khuyến mại],,,,Buttons clicked,,"Honda Việt Nam triển khai chương trình khuyến mại dành cho sản phẩm xe máy như sau:
+   [Mua xe Honda Winner X]
+   [Đang sử dụng Winner và Winner X]
+   [Mua xe Vision và Wave Alpha]
+","{""type"": ""text"", ""content"": {""text"": ""Honda Việt Nam triển khai chương trình khuyến mại dành cho sản phẩm xe máy như sau:"", ""buttons"": [{""title"": ""Mua xe Honda Winner X"", ""payload"": ""Khách hàng mua xe Honda Winner X#""}, {""title"": ""Đang sử dụng Winner và Winner X"", ""payload"": ""Khách hàng đang sử dụng xe Winner và Winner X#""}, {""title"": ""Mua xe Vision và Wave Alpha"", ""payload"": ""Khuyến mại Vision và Alpha#""}]}}",0.08,0,Other,MC,Product
+8/13/2020 15:41,1729586,Chú Vị,[chi tiết sh 125cc],,,,Buttons clicked,,"Bạn tham khảo một số thông tin chung về xe SH 125i nhé.
+","{""type"": ""text"", ""content"": {""text"": ""Bạn tham khảo một số thông tin chung về xe SH 125i nhé.""}}",0.13,0,Other,MC,Product
+8/13/2020 15:40,1827356,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:40,762147,ha thi biên,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào ha thi biên, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào ha thi biên, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.19,0,Other,,Other
+8/13/2020 15:40,1729586,Chú Vị,[giá xe sh 125cc],,,,Buttons clicked,,"Giá bán lẻ đề xuất (VNĐ) đã bao gồm VAT của SH 125cc:
+Phiên bản phanh CBS: 70,990,000
+Phiên bản phanh ABS: 78,990,000
+","{""type"": ""text"", ""content"": {""text"": ""Giá bán lẻ đề xuất (VNĐ) đã bao gồm VAT của SH 125cc:\nPhiên bản phanh CBS: 70,990,000\nPhiên bản phanh ABS: 78,990,000""}}",0.09,0,Other,MC,Product
+8/13/2020 15:40,1729586,Chú Vị,[giá xe sh],,,,Buttons clicked,,"
+***Carousel Card***
+
+   [Giá xe SH 125cc]
+   [Đại lý xe máy]
+
+   [Giá xe SH 150cc]
+   [Đại lý xe máy]
+
+   [Giá xe SH 300cc]
+   [Đại lý xe máy]
+
+   [Giá xe SH Mode 125cc]
+   [Đại lý xe máy]
+","{""type"": ""carousel"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""Loai_xe"", ""operator"": ""![|]"", ""value"": ""SH 125cc;SH 150cc;SH 300cc;SH Mode""}], ""carousel_cards"": [{""title"": """", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/960944b9cfcdc3f46556b4525477a401.png"", ""buttons"": [{""title"": ""Giá xe SH 125cc"", ""payload"": ""Giá xe SH 125cc#""}, {""title"": ""Đại lý xe máy"", ""payload"": ""Danh sách đại lý xe máy#""}]}, {""title"": """", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://d3axehkg8l9wiu.cloudfront.net/upload/df8b2c22fcf1e262e7100e060af79e51/a779f8fc577a7bca450f443f974028de.png"", ""buttons"": [{""title"": ""Giá xe SH 150cc"", ""payload"": ""Giá xe SH 150cc#""}, {""title"": ""Đại lý xe máy"", ""payload"": ""Danh sách đại lý xe máy#""}]}, {""title"": """", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/14dbb36aeab2a2bc68ccf1a76181855e.png"", ""buttons"": [{""title"": ""Giá xe SH 300cc"", ""payload"": ""Giá xe SH 300cc#""}, {""title"": ""Đại lý xe máy"", ""payload"": ""Danh sách đại lý xe máy#""}]}, {""title"": """", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://d3axehkg8l9wiu.cloudfront.net/upload/df8b2c22fcf1e262e7100e060af79e51/5d566774cdd322b142e6ec1f93fb320b.png"", ""buttons"": [{""title"": ""Giá xe SH Mode 125cc"", ""payload"": ""Giá xe SH Mode#""}, {""title"": ""Đại lý xe máy"", ""payload"": ""Danh sách đại lý xe máy#""}]}]}}",0.15,0,Other,MC,Product
+8/13/2020 15:40,1729586,Chú Vị,[giá xe tay ga],,,,Buttons clicked,,"
+***Carousel Card***
+✔SH
+   [Giá xe SH]
+✔PCX
+   [Giá xe PCX]
+✔LEAD
+   [Giá xe LEAD]
+✔AIR BLADE
+   [Giá xe Air Blade]
+✔VISION
+   [Giá xe Vision]
+","{""type"": ""carousel"", ""content"": {""carousel_cards"": [{""title"": ""✔SH"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/c7e1fc01938c2c850a8906e26cf3953e.jpg"", ""buttons"": [{""title"": ""Giá xe SH"", ""payload"": ""Giá xe SH#""}]}, {""title"": ""✔PCX"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/82f4722f7e499bfeea66c72e6cf3ae8d.png"", ""buttons"": [{""title"": ""Giá xe PCX"", ""payload"": ""Giá xe PCX#""}]}, {""title"": ""✔LEAD"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/e83d6a5019bbc40dea360bca2419bf8d.png"", ""buttons"": [{""title"": ""Giá xe LEAD"", ""payload"": ""Giá xe Lead#""}]}, {""title"": ""✔AIR BLADE"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/857ca578d8579f2aa68d2bbc1f43ea5a.png"", ""buttons"": [{""title"": ""Giá xe Air Blade"", ""payload"": ""Giá xe Air Blade#""}]}, {""title"": ""✔VISION"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/471556886650cf94dc51aa769163416d.png"", ""buttons"": [{""title"": ""Giá xe Vision"", ""payload"": ""Giá xe vision#""}]}]}}",0.14,0,Other,MC,Product
+8/13/2020 15:40,343377,DUONG VAN VIET,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào DUONG VAN VIET, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào DUONG VAN VIET, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:40,1729586,Chú Vị,[thông tin xe tay ga],,,,Buttons clicked,,"Để tham khảo thông tin về các sản phẩm xe máy, tại Danh sách Menu, bạn chọn Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm. 
+","{""type"": ""text"", ""content"": {""text"": ""Để tham khảo thông tin về các sản phẩm xe máy, tại Danh sách Menu, bạn chọn Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm. ""}}",0.1,0,Other,MC,Product
+8/13/2020 15:40,1249660,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:39,410276,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:39,1729586,Chú Vị,[đại lý xe máy],,,,Buttons clicked,,"Tại mục Đại lý, bạn chọn Đại lý xe máy, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.
+","{""type"": ""text"", ""content"": {""text"": ""Tại mục Đại lý, bạn chọn Đại lý xe máy, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.""}}",0.11,0,Other,MC,Product
+8/13/2020 15:39,1729586,Chú Vị,[honda xe máy],,,,Buttons clicked,,"Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.
+","{""type"": ""text"", ""content"": {""text"": ""Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.""}}",0.15,0,Other,MC,Product
+8/13/2020 15:39,1695778,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:38,1792695,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.29,0,Other,,Other
+8/13/2020 15:38,1729586,Chú Vị,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Chú Vị, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Chú Vị, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:37,2226,Đoàn Tuấn Anh,cbr,thong_tin_san_pham,1,"Intents
+ - 1 : thong_tin_san_pham 
+ - 0 : tam_biet 
+ - 0 : chao_hoi 
+Entities
+ - loai_xe : cbr 
+",Match intent - trigger a scenario,,"Bạn muốn tham khảo thông tin về dòng xe CBR nào ạ, xin mời bạn lựa chọn 💁🏽:
+","{""type"": ""text"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""Loai_xe"", ""operator"": ""![|]"", ""value"": ""CBR1000RR;CBR1000RR-SP;CBR500R;CBR650R""}], ""text"": ""Bạn muốn tham khảo thông tin về dòng xe CBR nào ạ, xin mời bạn lựa chọn 💁🏽:""}}",0.76,0,Other,AM,Product
+8/13/2020 15:37,2226,Đoàn Tuấn Anh,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào AnhDT, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào AnhDT, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:36,1803850,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.18,0,Other,,Other
+8/13/2020 15:35,1022253,None,[honda xe máy],,,,Buttons clicked,,"Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.
+","{""type"": ""text"", ""content"": {""text"": ""Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.""}}",0.14,0,Other,MC,Product
+8/13/2020 15:35,1022253,None,[đại lý xe máy],,,,Buttons clicked,,"Tại mục Đại lý, bạn chọn Đại lý xe máy, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.
+","{""type"": ""text"", ""content"": {""text"": ""Tại mục Đại lý, bạn chọn Đại lý xe máy, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.""}}",0.06,0,Other,MC,Product
+8/13/2020 15:35,1022253,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:34,1022253,None,[honda xe máy],,,,Buttons clicked,,"Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.
+","{""type"": ""text"", ""content"": {""text"": ""Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.""}}",0.15,0,Other,MC,Product
+8/13/2020 15:34,1022253,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:33,1643850,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:33,676678,Đỗ văn Đức,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Đỗ văn Đức, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Đỗ văn Đức, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:32,1751364,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.24,0,Other,,Other
+8/13/2020 15:31,984335,Nguyen Thanh Son,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Nguyen Thanh Son, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Nguyen Thanh Son, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.25,0,Other,,Other
+8/13/2020 15:31,1600500,Đoàn Thị Nguyên,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Đoàn Thị Nguyên, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Đoàn Thị Nguyên, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:31,1799381,ngọc hân,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:30,1046024,None,dung vượng quốc oai ha nội,thong_tin_tuyen_dung,1,"Intents
+ - 1 : thong_tin_tuyen_dung 
+ - 0 : huong_dan_su_dung 
+ - 0 : quy_trinh_tuyen_dung 
+",Match intent - trigger a scenario,,"Để cập nhật những thông tin tuyển dụng mới nhất của Honda Việt Nam, Quý khách vui lòng truy cập đường link bên dưới:
+https://www.honda.com.vn/tuyen-dung/evp-tuyen-dung
+   [Fanpage tuyển dụng]
+   [☎️Hotline]
+","{""type"": ""text"", ""content"": {""text"": ""Để cập nhật những thông tin tuyển dụng mới nhất của Honda Việt Nam, Quý khách vui lòng truy cập đường link bên dưới:\nhttps://www.honda.com.vn/tuyen-dung/evp-tuyen-dung"", ""buttons"": [{""title"": ""Fanpage tuyển dụng"", ""payload"": ""Fanpage tuyển dụng#""}, {""title"": ""☎️Hotline"", ""payload"": ""Hotline tuyển dụng#""}]}}",0.18,0,Other,,Other
+8/13/2020 15:30,1802507,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:29,1827833,nông văn bình,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:29,1046024,None,[đại lý xe máy],,,,Buttons clicked,,"Tại mục Đại lý, bạn chọn Đại lý xe máy, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.
+","{""type"": ""text"", ""content"": {""text"": ""Tại mục Đại lý, bạn chọn Đại lý xe máy, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.""}}",0.1,0,Other,MC,Product
+8/13/2020 15:29,1736773,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:29,1046024,None,tôi mua xe wava alpha 110 từ 2/5/2019 có đc km chi ân khách hàng nữa ko,ban_hang,1,"Intents
+ - 1 : ban_hang 
+ - 0 : noi_mua_pkl 
+ - 0 : keu_xe 
+Entities
+ - loai_xe : alpha 
+",Match intent - trigger a scenario,,"Giá bán lẻ đề xuất (VNĐ) đã bao gồm VAT của Wave Alpha 110cc:
+Phiên bản Vành nan Phanh cơ: 17,790,000
+","{""type"": ""text"", ""content"": {""text"": ""Giá bán lẻ đề xuất (VNĐ) đã bao gồm VAT của Wave Alpha 110cc:\nPhiên bản Vành nan Phanh cơ: 17,790,000""}}",1.27,0,Other,MC,Product
+8/13/2020 15:29,715665,Huỳnh trung thành,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Huỳnh trung thành, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Huỳnh trung thành, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:29,418375,Nguyễn Hải,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Nguyễn Hải, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Nguyễn Hải, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.24,0,Other,,Other
+8/13/2020 15:28,1251194,Lê Thị Thuý,Ad cho mình hỏi với. Mình mua xe vision vào tháng 5/2020. Vậy mình có được nhận quà của chương trình quà tặng không ạ,khuyen_mai,1,"Intents
+ - 1 : khuyen_mai 
+ - 0 : thong_bao_su_co 
+ - 0 : tu_van_su_dung_oto 
+Entities
+ - loai_xe : vision 
+",Match intent - trigger a scenario,,"Honda Việt Nam triển khai chương trình khuyến mại dành cho sản phẩm xe máy như sau:
+   [Mua xe Honda Winner X]
+   [Đang sử dụng Winner và Winner X]
+   [Mua xe Vision và Wave Alpha]
+","{""type"": ""text"", ""content"": {""text"": ""Honda Việt Nam triển khai chương trình khuyến mại dành cho sản phẩm xe máy như sau:"", ""buttons"": [{""title"": ""Mua xe Honda Winner X"", ""payload"": ""Khách hàng mua xe Honda Winner X#""}, {""title"": ""Đang sử dụng Winner và Winner X"", ""payload"": ""Khách hàng đang sử dụng xe Winner và Winner X#""}, {""title"": ""Mua xe Vision và Wave Alpha"", ""payload"": ""Khuyến mại Vision và Alpha#""}]}}",0.66,0,Other,MC,Product
+8/13/2020 15:28,1600389,NGUYEN HUNG CUONG,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào NGUYEN HUNG CUONG, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào NGUYEN HUNG CUONG, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:28,1600389,NGUYEN HUNG CUONG,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào NGUYEN HUNG CUONG, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào NGUYEN HUNG CUONG, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:28,1777255,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:28,1801054,Chị Phượng,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Chị Phượng, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Chị Phượng, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:27,1251194,Lê Thị Thuý,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Lê Thị Thuý, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Lê Thị Thuý, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:27,1046024,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:27,591176,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:26,1436023,None,[gặp tư vấn viên],,,,Buttons clicked,,"Bạn vui lòng chờ trong giây lát. Cuộc hội thoại sẽ được chuyển đến tư vấn viên.
+","{""type"": ""text"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""days"", ""operator"": ""![|]"", ""value"": ""2020/09/02;2021/01/01""}, {""type"": ""attribute"", ""name"": ""phut"", ""operator"": ""="", ""value"": ""1""}], ""text"": ""Bạn vui lòng chờ trong giây lát. Cuộc hội thoại sẽ được chuyển đến tư vấn viên.""}}",0.14,0,Other,,Service
+8/13/2020 15:26,1436023,None,cho minh hỏi sao xe cua mjk ấn nút điều khiển no ra màu xanh rôi ma no k nhận xe ak,thong_bao_su_co,1,"Intents
+ - 1 : thong_bao_su_co 
+ - 0 : tu_van_su_dung_xe_may 
+ - 0 : tu_van_chay_roda 
+",Match intent - trigger a scenario,,"Honda Việt Nam rất tiếc khi xe của bạn gặp phải sự cố này, để thuận tiện cho việc hỗ trợ, chúng tôi xin chuyển cuộc trò chuyện của bạn đến Tư vấn viên.
+   [Gặp tư vấn viên]
+","{""type"": ""text"", ""content"": {""text"": ""Honda Việt Nam rất tiếc khi xe của bạn gặp phải sự cố này, để thuận tiện cho việc hỗ trợ, chúng tôi xin chuyển cuộc trò chuyện của bạn đến Tư vấn viên."", ""buttons"": [{""title"": ""Gặp tư vấn viên"", ""payload"": ""Yêu cầu người hỗ trợ#""}]}}",4.12,0,Other,,Other
+8/13/2020 15:25,1046024,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:25,1343937,Kim Long,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Kim Long, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Kim Long, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:25,1436023,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:25,1827692,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:25,1826513,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.25,0,Other,,Other
+8/13/2020 15:24,1726407,Dương Công Anh,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Dương Công Anh, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Dương Công Anh, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.19,0,Other,,Other
+8/13/2020 15:24,1600389,NGUYEN HUNG CUONG,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào NGUYEN HUNG CUONG, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào NGUYEN HUNG CUONG, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:24,1825363,None,[Đại lý xe máy],,,,Buttons clicked,,"Tại mục Đại lý, bạn chọn Đại lý xe máy, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.
+","{""type"": ""text"", ""content"": {""text"": ""Tại mục Đại lý, bạn chọn Đại lý xe máy, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.""}}",0.07,0,Other,MC,Product
+8/13/2020 15:24,641733,Pham Dang Khoa,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Pham Dang Khoa, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Pham Dang Khoa, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:23,1825363,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.27,0,Other,,Other
+8/13/2020 15:23,1673433,Ninh Thị Thảo Ninh,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Ninh Thị Thảo Ninh, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Ninh Thị Thảo Ninh, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:23,2226,Đoàn Tuấn Anh,cbr,thong_tin_san_pham,1,"Intents
+ - 1 : thong_tin_san_pham 
+ - 0 : tam_biet 
+ - 0 : chao_hoi 
+Entities
+ - loai_xe : cbr 
+",Match intent - trigger a scenario,,"Bạn muốn tham khảo thông tin về dòng xe CBR nào ạ, xin mời bạn lựa chọn 💁🏽:
+","{""type"": ""text"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""Loai_xe"", ""operator"": ""![|]"", ""value"": ""CBR1000RR;CBR1000RR-SP;CBR500R;CBR650R""}], ""text"": ""Bạn muốn tham khảo thông tin về dòng xe CBR nào ạ, xin mời bạn lựa chọn 💁🏽:""}}",4.79,0,Other,AM,Product
+8/13/2020 15:23,2226,Đoàn Tuấn Anh,cbr1000rr,thong_tin_san_pham,1,"Intents
+ - 1 : thong_tin_san_pham 
+ - 0 : tam_biet 
+ - 0 : thoi_tiet 
+Entities
+ - loai_xe : cbr1000rr 
+",Match intent - trigger a scenario,,"Bạn tham khảo một số thông tin chung về xe CBR1000RR nhé.
+","{""type"": ""text"", ""content"": {""text"": ""Bạn tham khảo một số thông tin chung về xe CBR1000RR nhé.""}}",1.3,0,Other,AM,Product
+8/13/2020 15:23,2226,Đoàn Tuấn Anh,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào AnhDT, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào AnhDT, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:22,1807592,None,[thông tin tuyển dụng],,,,Buttons clicked,,"Để cập nhật những thông tin tuyển dụng mới nhất của Honda Việt Nam, Quý khách vui lòng truy cập đường link bên dưới:
+https://www.honda.com.vn/tuyen-dung/evp-tuyen-dung
+   [Fanpage tuyển dụng]
+   [☎️Hotline]
+","{""type"": ""text"", ""content"": {""text"": ""Để cập nhật những thông tin tuyển dụng mới nhất của Honda Việt Nam, Quý khách vui lòng truy cập đường link bên dưới:\nhttps://www.honda.com.vn/tuyen-dung/evp-tuyen-dung"", ""buttons"": [{""title"": ""Fanpage tuyển dụng"", ""payload"": ""Fanpage tuyển dụng#""}, {""title"": ""☎️Hotline"", ""payload"": ""Hotline tuyển dụng#""}]}}",0.09,0,Other,,Product
+8/13/2020 15:22,1807592,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:22,1763488,Đào Thị Thu Nguyệt,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Đào Thị Thu Nguyệt, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Đào Thị Thu Nguyệt, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:21,1764699,Hồ đức kh,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Hồ đức kh, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Hồ đức kh, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:21,1577366,nguyễn thị huệ,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào nguyễn thị huệ, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào nguyễn thị huệ, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:20,1764699,Hồ đức kh,[Giá xe Air Blade],,,,Buttons clicked,,"Giá bán lẻ đề xuất (VNĐ) đã bao gồm VAT của Air Blade là :
+✔️Air Blade 125cc:
+Phiên bản tiêu chuẩn: 41,190,000
+Phiên bản đặc biệt: 42,390,000
+✔️Air Blade 150cc:
+Phiên bản tiêu chuẩn: 55,190,000
+Phiên bản đặc biệt: 56,390,000
+
+","{""type"": ""text"", ""content"": {""text"": ""Giá bán lẻ đề xuất (VNĐ) đã bao gồm VAT của Air Blade là :\n✔️Air Blade 125cc:\nPhiên bản tiêu chuẩn: 41,190,000\nPhiên bản đặc biệt: 42,390,000\n✔️Air Blade 150cc:\nPhiên bản tiêu chuẩn: 55,190,000\nPhiên bản đặc biệt: 56,390,000\n""}}",0.09,0,Other,MC,Product
+8/13/2020 15:20,1764699,Hồ đức kh,[Giá xe tay ga],,,,Buttons clicked,,"
+***Carousel Card***
+✔SH
+   [Giá xe SH]
+✔PCX
+   [Giá xe PCX]
+✔LEAD
+   [Giá xe LEAD]
+✔AIR BLADE
+   [Giá xe Air Blade]
+✔VISION
+   [Giá xe Vision]
+","{""type"": ""carousel"", ""content"": {""carousel_cards"": [{""title"": ""✔SH"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/c7e1fc01938c2c850a8906e26cf3953e.jpg"", ""buttons"": [{""title"": ""Giá xe SH"", ""payload"": ""Giá xe SH#""}]}, {""title"": ""✔PCX"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/82f4722f7e499bfeea66c72e6cf3ae8d.png"", ""buttons"": [{""title"": ""Giá xe PCX"", ""payload"": ""Giá xe PCX#""}]}, {""title"": ""✔LEAD"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/e83d6a5019bbc40dea360bca2419bf8d.png"", ""buttons"": [{""title"": ""Giá xe LEAD"", ""payload"": ""Giá xe Lead#""}]}, {""title"": ""✔AIR BLADE"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/857ca578d8579f2aa68d2bbc1f43ea5a.png"", ""buttons"": [{""title"": ""Giá xe Air Blade"", ""payload"": ""Giá xe Air Blade#""}]}, {""title"": ""✔VISION"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/471556886650cf94dc51aa769163416d.png"", ""buttons"": [{""title"": ""Giá xe Vision"", ""payload"": ""Giá xe vision#""}]}]}}",0.12,0,Other,MC,Product
+8/13/2020 15:20,1591971,Nguyễn thị quốc anh,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:20,1793895,Ngô Quang Trung,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:20,1764699,Hồ đức kh,[Xe máy],,,,Buttons clicked,,"Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.
+","{""type"": ""text"", ""content"": {""text"": ""Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.""}}",0.14,0,Other,MC,Product
+8/13/2020 15:20,1764699,Hồ đức kh,[Thông tin sản phẩm Honda],,,,Buttons clicked,,"Xin chào Hồ đức kh mẫu xe mà bạn đang quan tâm là gì ?
+Bạn muốn xem thông tin sản phẩm, vui lòng lựa chọn: 
+   [Xe máy]
+   [Ô tô]
+","{""type"": ""text"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""Loai_xe"", ""operator"": ""="", ""value"": """"}], ""text"": ""Xin chào Hồ đức kh mẫu xe mà bạn đang quan tâm là gì ?\nBạn muốn xem thông tin sản phẩm, vui lòng lựa chọn: "", ""buttons"": [{""title"": ""Xe máy"", ""payload"": ""Xe máy#""}, {""title"": ""Ô tô"", ""payload"": ""Ô tô#""}]}}",0.19,0,Other,AM,Product
+8/13/2020 15:20,1764699,Hồ đức kh,Mình mới mua xong,thoi_tiet,0.94,"Intents
+ - 0.94 : thoi_tiet 
+ - 0.02 : dat_mua_phu_tung 
+ - 0.01 : thong_tin_san_pham 
+",Match intent - trigger a scenario,,"🌈Nếu hôm nay là một ngày đẹp trời và tâm trạng bạn đang thoải mái thì mời bạn qua Honda Việt Nam để trải nghiệm sản phẩm mới nhất của Honda nhé 🎉
+   [Tham khảo Menu]
+   [Thông tin sản phẩm Honda]
+   [Thông tin đại lý]
+","{""type"": ""text"", ""content"": {""text"": ""🌈Nếu hôm nay là một ngày đẹp trời và tâm trạng bạn đang thoải mái thì mời bạn qua Honda Việt Nam để trải nghiệm sản phẩm mới nhất của Honda nhé 🎉"", ""buttons"": [{""title"": ""Tham khảo Menu"", ""payload"": ""Menu#""}, {""title"": ""Thông tin sản phẩm Honda"", ""payload"": ""Thông tin sản phẩm#""}, {""title"": ""Thông tin đại lý"", ""payload"": ""Danh sách đại lý#""}]}}",0.16,0,Other,,Product
+8/13/2020 15:19,732014,Nguyễn Viết Thắng,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Nguyễn Viết Thắng, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Nguyễn Viết Thắng, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:18,1406889,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:18,1764699,Hồ đức kh,[Giá xe Air Blade],,,,Buttons clicked,,"Giá bán lẻ đề xuất (VNĐ) đã bao gồm VAT của Air Blade là :
+✔️Air Blade 125cc:
+Phiên bản tiêu chuẩn: 41,190,000
+Phiên bản đặc biệt: 42,390,000
+✔️Air Blade 150cc:
+Phiên bản tiêu chuẩn: 55,190,000
+Phiên bản đặc biệt: 56,390,000
+
+","{""type"": ""text"", ""content"": {""text"": ""Giá bán lẻ đề xuất (VNĐ) đã bao gồm VAT của Air Blade là :\n✔️Air Blade 125cc:\nPhiên bản tiêu chuẩn: 41,190,000\nPhiên bản đặc biệt: 42,390,000\n✔️Air Blade 150cc:\nPhiên bản tiêu chuẩn: 55,190,000\nPhiên bản đặc biệt: 56,390,000\n""}}",0.1,0,Other,MC,Product
+8/13/2020 15:18,1764699,Hồ đức kh,[Giá xe tay ga],,,,Buttons clicked,,"
+***Carousel Card***
+✔SH
+   [Giá xe SH]
+✔PCX
+   [Giá xe PCX]
+✔LEAD
+   [Giá xe LEAD]
+✔AIR BLADE
+   [Giá xe Air Blade]
+✔VISION
+   [Giá xe Vision]
+","{""type"": ""carousel"", ""content"": {""carousel_cards"": [{""title"": ""✔SH"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/c7e1fc01938c2c850a8906e26cf3953e.jpg"", ""buttons"": [{""title"": ""Giá xe SH"", ""payload"": ""Giá xe SH#""}]}, {""title"": ""✔PCX"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/82f4722f7e499bfeea66c72e6cf3ae8d.png"", ""buttons"": [{""title"": ""Giá xe PCX"", ""payload"": ""Giá xe PCX#""}]}, {""title"": ""✔LEAD"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/e83d6a5019bbc40dea360bca2419bf8d.png"", ""buttons"": [{""title"": ""Giá xe LEAD"", ""payload"": ""Giá xe Lead#""}]}, {""title"": ""✔AIR BLADE"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/857ca578d8579f2aa68d2bbc1f43ea5a.png"", ""buttons"": [{""title"": ""Giá xe Air Blade"", ""payload"": ""Giá xe Air Blade#""}]}, {""title"": ""✔VISION"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/471556886650cf94dc51aa769163416d.png"", ""buttons"": [{""title"": ""Giá xe Vision"", ""payload"": ""Giá xe vision#""}]}]}}",0.13,0,Other,MC,Product
+8/13/2020 15:18,1764699,Hồ đức kh,[Honda xe máy],,,,Buttons clicked,,"Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.
+","{""type"": ""text"", ""content"": {""text"": ""Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.""}}",0.21,0,Other,MC,Product
+8/13/2020 15:18,1764699,Hồ đức kh,[Khuyến mại],,,,Buttons clicked,,"Honda Việt Nam triển khai chương trình khuyến mại dành cho sản phẩm xe máy như sau:
+   [Mua xe Honda Winner X]
+   [Đang sử dụng Winner và Winner X]
+   [Mua xe Vision và Wave Alpha]
+","{""type"": ""text"", ""content"": {""text"": ""Honda Việt Nam triển khai chương trình khuyến mại dành cho sản phẩm xe máy như sau:"", ""buttons"": [{""title"": ""Mua xe Honda Winner X"", ""payload"": ""Khách hàng mua xe Honda Winner X#""}, {""title"": ""Đang sử dụng Winner và Winner X"", ""payload"": ""Khách hàng đang sử dụng xe Winner và Winner X#""}, {""title"": ""Mua xe Vision và Wave Alpha"", ""payload"": ""Khuyến mại Vision và Alpha#""}]}}",0.08,0,Other,MC,Product
+8/13/2020 15:17,1764699,Hồ đức kh,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Hồ đức kh, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Hồ đức kh, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:16,1594413,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.24,0,Other,,Other
+8/13/2020 15:15,1286694,nguyễn cường,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào nguyễn cường, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào nguyễn cường, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.27,0,Other,,Other
+8/13/2020 15:15,1692971,Trần Trang Sơn,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Trần Trang Sơn, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Trần Trang Sơn, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.25,0,Other,,Other
+8/13/2020 15:14,1827328,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:14,891485,Dương Thị Hải Yến,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Dương Thị Hải Yến, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Dương Thị Hải Yến, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.24,0,Other,,Other
+8/13/2020 15:13,1631924,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.19,0,Other,,Other
+8/13/2020 15:13,1797839,None,[từ 300cc trở xuống],,,,Buttons clicked,,"Thời hạn bảo hành của xe máy có dung tích xy-lanh từ 300cc trở xuống là 3 năm hoặc 30000km tùy thuộc điều kiện nào đến trước.
+Để tham khảo đầy đủ thông tin về bảo hành, bạn chọn Sản phẩm --> chọn loại xe --> tại Danh sách menu, bạn chọn Chính sách bảo hành nhé.
+","{""type"": ""text"", ""content"": {""text"": ""Thời hạn bảo hành của xe máy có dung tích xy-lanh từ 300cc trở xuống là 3 năm hoặc 30000km tùy thuộc điều kiện nào đến trước.\nĐể tham khảo đầy đủ thông tin về bảo hành, bạn chọn Sản phẩm --> chọn loại xe --> tại Danh sách menu, bạn chọn Chính sách bảo hành nhé.""}}",0.06,0,Other,MC,Other
+8/13/2020 15:13,1797839,None,[xe máy],,,,Buttons clicked,,"Bạn đang muốn tìm hiểu thông tin bảo hành cho dòng xe máy trên 300cc hay xe máy dưới 300cc :
+   [Từ 300cc trở xuống]
+   [Trên 300cc]
+","{""type"": ""text"", ""content"": {""text"": ""Bạn đang muốn tìm hiểu thông tin bảo hành cho dòng xe máy trên 300cc hay xe máy dưới 300cc :"", ""buttons"": [{""title"": ""Từ 300cc trở xuống"", ""payload"": ""Bảo hành xe dưới 300cc#""}, {""title"": ""Trên 300cc"", ""payload"": ""Bảo hành xe trên 300cc#""}]}}",0.07,0,Other,MC,Product
+8/13/2020 15:13,1797839,None,[bảo hành],,,,Buttons clicked,,"Bạn muốn tra cứu thông tin bảo hành của loại xe nào ạ:
+   [Ô tô]
+   [Xe máy]
+","{""type"": ""text"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""Loai_xe"", ""operator"": ""="", ""value"": """"}], ""text"": ""Bạn muốn tra cứu thông tin bảo hành của loại xe nào ạ:"", ""buttons"": [{""title"": ""Ô tô"", ""payload"": ""Bảo hành oto#""}, {""title"": ""Xe máy"", ""payload"": ""bảo hành xe máy#""}]}}",0.08,0,Other,AM,Service
+8/13/2020 15:12,1797839,None,[thủ tục bảo hành],,,,Buttons clicked,,"Từ ngày 1/1/2020, Honda Việt Nam đã áp dụng chính sách bảo hành điện tử. Với chính sách mới này, Quý khách hàng không cần sử dụng sổ bảo hành mà vẫn có thể mang xe đến HEAD bảo hành bình thường. HEAD sẽ căn cứ vào số khung, số máy của xe để bảo hành.
+Để tham khảo đầy đủ thông tin về bảo hành, bạn chọn Sản phẩm --> chọn loại xe --> tại Danh sách menu, bạn chọn Chính sách bảo hành nhé
+   [Bảo hành]
+   [Đại lý Honda]
+","{""type"": ""text"", ""content"": {""text"": ""Từ ngày 1/1/2020, Honda Việt Nam đã áp dụng chính sách bảo hành điện tử. Với chính sách mới này, Quý khách hàng không cần sử dụng sổ bảo hành mà vẫn có thể mang xe đến HEAD bảo hành bình thường. HEAD sẽ căn cứ vào số khung, số máy của xe để bảo hành.\nĐể tham khảo đầy đủ thông tin về bảo hành, bạn chọn Sản phẩm --> chọn loại xe --> tại Danh sách menu, bạn chọn Chính sách bảo hành nhé"", ""buttons"": [{""title"": ""Bảo hành"", ""payload"": ""Bảo hành#""}, {""title"": ""Đại lý Honda"", ""payload"": ""Danh sách đại lý#""}]}}",0.1,0,Other,MC,Service
+8/13/2020 15:12,1797839,None,[bảo hành],,,,Buttons clicked,,"Bạn muốn tra cứu thông tin bảo hành của loại xe nào ạ:
+   [Ô tô]
+   [Xe máy]
+","{""type"": ""text"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""Loai_xe"", ""operator"": ""="", ""value"": """"}], ""text"": ""Bạn muốn tra cứu thông tin bảo hành của loại xe nào ạ:"", ""buttons"": [{""title"": ""Ô tô"", ""payload"": ""Bảo hành oto#""}, {""title"": ""Xe máy"", ""payload"": ""bảo hành xe máy#""}]}}",0.11,0,Other,AM,Service
+8/13/2020 15:12,1797839,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:12,1827512,Nguyen Thi Minh Thu,[giá xe sh 150cc],,,,Buttons clicked,,"Giá bán lẻ đề xuất (VNĐ) đã bao gồm VAT của SH 150cc:
+Phiên bản phanh CBS: 87,990,000
+Phiên bản phanh ABS: 95,990,000
+","{""type"": ""text"", ""content"": {""text"": ""Giá bán lẻ đề xuất (VNĐ) đã bao gồm VAT của SH 150cc:\nPhiên bản phanh CBS: 87,990,000\nPhiên bản phanh ABS: 95,990,000""}}",0.1,0,Other,MC,Product
+8/13/2020 15:12,1827512,Nguyen Thi Minh Thu,[giá xe sh],,,,Buttons clicked,,"
+***Carousel Card***
+
+   [Giá xe SH 125cc]
+   [Đại lý xe máy]
+
+   [Giá xe SH 150cc]
+   [Đại lý xe máy]
+
+   [Giá xe SH 300cc]
+   [Đại lý xe máy]
+
+   [Giá xe SH Mode 125cc]
+   [Đại lý xe máy]
+","{""type"": ""carousel"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""Loai_xe"", ""operator"": ""![|]"", ""value"": ""SH 125cc;SH 150cc;SH 300cc;SH Mode""}], ""carousel_cards"": [{""title"": """", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/960944b9cfcdc3f46556b4525477a401.png"", ""buttons"": [{""title"": ""Giá xe SH 125cc"", ""payload"": ""Giá xe SH 125cc#""}, {""title"": ""Đại lý xe máy"", ""payload"": ""Danh sách đại lý xe máy#""}]}, {""title"": """", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://d3axehkg8l9wiu.cloudfront.net/upload/df8b2c22fcf1e262e7100e060af79e51/a779f8fc577a7bca450f443f974028de.png"", ""buttons"": [{""title"": ""Giá xe SH 150cc"", ""payload"": ""Giá xe SH 150cc#""}, {""title"": ""Đại lý xe máy"", ""payload"": ""Danh sách đại lý xe máy#""}]}, {""title"": """", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/14dbb36aeab2a2bc68ccf1a76181855e.png"", ""buttons"": [{""title"": ""Giá xe SH 300cc"", ""payload"": ""Giá xe SH 300cc#""}, {""title"": ""Đại lý xe máy"", ""payload"": ""Danh sách đại lý xe máy#""}]}, {""title"": """", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://d3axehkg8l9wiu.cloudfront.net/upload/df8b2c22fcf1e262e7100e060af79e51/5d566774cdd322b142e6ec1f93fb320b.png"", ""buttons"": [{""title"": ""Giá xe SH Mode 125cc"", ""payload"": ""Giá xe SH Mode#""}, {""title"": ""Đại lý xe máy"", ""payload"": ""Danh sách đại lý xe máy#""}]}]}}",0.13,0,Other,MC,Product
+8/13/2020 15:12,1827512,Nguyen Thi Minh Thu,[giá xe tay ga],,,,Buttons clicked,,"
+***Carousel Card***
+✔SH
+   [Giá xe SH]
+✔PCX
+   [Giá xe PCX]
+✔LEAD
+   [Giá xe LEAD]
+✔AIR BLADE
+   [Giá xe Air Blade]
+✔VISION
+   [Giá xe Vision]
+","{""type"": ""carousel"", ""content"": {""carousel_cards"": [{""title"": ""✔SH"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/c7e1fc01938c2c850a8906e26cf3953e.jpg"", ""buttons"": [{""title"": ""Giá xe SH"", ""payload"": ""Giá xe SH#""}]}, {""title"": ""✔PCX"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/82f4722f7e499bfeea66c72e6cf3ae8d.png"", ""buttons"": [{""title"": ""Giá xe PCX"", ""payload"": ""Giá xe PCX#""}]}, {""title"": ""✔LEAD"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/e83d6a5019bbc40dea360bca2419bf8d.png"", ""buttons"": [{""title"": ""Giá xe LEAD"", ""payload"": ""Giá xe Lead#""}]}, {""title"": ""✔AIR BLADE"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/857ca578d8579f2aa68d2bbc1f43ea5a.png"", ""buttons"": [{""title"": ""Giá xe Air Blade"", ""payload"": ""Giá xe Air Blade#""}]}, {""title"": ""✔VISION"", ""subtitle"": """", ""item_url"": """", ""image_url"": ""https://bot-data-prd-crm.honda.com.vn/upload/df8b2c22fcf1e262e7100e060af79e51/471556886650cf94dc51aa769163416d.png"", ""buttons"": [{""title"": ""Giá xe Vision"", ""payload"": ""Giá xe vision#""}]}]}}",0.12,0,Other,MC,Product
+8/13/2020 15:12,1827512,Nguyen Thi Minh Thu,[thông tin xe tay ga],,,,Buttons clicked,,"Để tham khảo thông tin về các sản phẩm xe máy, tại Danh sách Menu, bạn chọn Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm. 
+","{""type"": ""text"", ""content"": {""text"": ""Để tham khảo thông tin về các sản phẩm xe máy, tại Danh sách Menu, bạn chọn Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm. ""}}",0.09,0,Other,MC,Product
+8/13/2020 15:12,1827512,Nguyen Thi Minh Thu,[thông tin xe số],,,,Buttons clicked,,"Để tham khảo thông tin về các sản phẩm xe máy, tại Danh sách Menu, bạn chọn Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm. 
+","{""type"": ""text"", ""content"": {""text"": ""Để tham khảo thông tin về các sản phẩm xe máy, tại Danh sách Menu, bạn chọn Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm. ""}}",0.09,0,Other,MC,Product
+8/13/2020 15:11,1827512,Nguyen Thi Minh Thu,[honda xe máy],,,,Buttons clicked,,"Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.
+","{""type"": ""text"", ""content"": {""text"": ""Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.""}}",0.16,0,Other,MC,Product
+8/13/2020 15:11,1827512,Nguyen Thi Minh Thu,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Nguyen Thi Minh Thu, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Nguyen Thi Minh Thu, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:11,1826086,Ngọc,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Ngọc, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Ngọc, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.24,0,Other,,Other
+8/13/2020 15:11,373643,None,Thay yêm xe ga AB hết bao nhiêu vậy honda,thay_dau_dinh_ky,0.87,"Intents
+ - 0.87 : thay_dau_dinh_ky 
+ - 0.09 : thong_bao_su_co 
+ - 0.03 : thong_tin_san_pham 
+Entities
+ - loai_xe : xe ga 
+",Match intent - default answer,,"Xem ra Trợ Lý Ảo chưa giải đáp được các câu hỏi của bạn rồi 😊😊 . Mời bạn tham khảo thêm menu bên dưới nhé
+   [Tham khảo Menu]
+","{""type"": ""text"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""count_not_understand"", ""operator"": ""="", ""value"": ""1""}], ""text"": ""Xem ra Trợ Lý Ảo chưa giải đáp được các câu hỏi của bạn rồi 😊😊 . Mời bạn tham khảo thêm menu bên dưới nhé"", ""buttons"": [{""title"": ""Tham khảo Menu"", ""payload"": ""Menu#""}]}}",0.22,0,Other,MC,Product
+8/13/2020 15:11,1772148,đinh thị kim thoa,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào đinh thị kim thoa, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào đinh thị kim thoa, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:11,1772148,đinh thị kim thoa,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào đinh thị kim thoa, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào đinh thị kim thoa, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:11,48531,Bùi Văn Quang,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Bùi Văn Quang, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Bùi Văn Quang, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:11,1772148,đinh thị kim thoa,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào đinh thị kim thoa, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào đinh thị kim thoa, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:10,1029980,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.19,0,Other,,Other
+8/13/2020 15:09,1746926,Phạm Thị Hiền,tư vấn viên,gap_tu_van_vien,0.95,"Intents
+ - 0.95 : gap_tu_van_vien 
+ - 0.02 : quy_trinh_tuyen_dung 
+ - 0 : chao_hoi 
+",Match intent - trigger a scenario,,"Bạn vui lòng chờ trong giây lát. Cuộc hội thoại sẽ được chuyển đến tư vấn viên.
+","{""type"": ""text"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""days"", ""operator"": ""![|]"", ""value"": ""2020/09/02;2021/01/01""}, {""type"": ""attribute"", ""name"": ""phut"", ""operator"": ""="", ""value"": ""1""}], ""text"": ""Bạn vui lòng chờ trong giây lát. Cuộc hội thoại sẽ được chuyển đến tư vấn viên.""}}",0.17,0,Other,,Service
+8/13/2020 15:09,1724452,Phạm Quang Tuấn,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Phạm Quang Tuấn, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Phạm Quang Tuấn, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:09,1746926,Phạm Thị Hiền,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Customer, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Customer, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:09,373643,None,[Honda xe máy],,,,Buttons clicked,,"Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.
+","{""type"": ""text"", ""content"": {""text"": ""Để tham khảo thông tin chung của sản phẩm xe máy Honda, tại danh sách Menu trên ứng dụng My Honda+ , mời bạn chọn mục Sản phẩm --> chọn Xe máy --> Click chọn vào loại xe bạn quan tâm.""}}",0.16,0,Other,MC,Product
+8/13/2020 15:09,373643,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:09,1827541,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.23,0,Other,,Other
+8/13/2020 15:08,1820690,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:07,1696423,None,tôi muốn hỏi sao đại lý không báo ngay bảo dưỡng xe cho tôi,dat_lich_hen,0.66,"Intents
+ - 0.66 : dat_lich_hen 
+ - 0.31 : tu_choi_bao_hanh 
+ - 0.02 : thoi_gian_sua_chua 
+",Match intent - default answer,,"Xem ra Trợ Lý Ảo chưa giải đáp được các câu hỏi của bạn rồi 😊😊 . Mời bạn tham khảo thêm menu bên dưới nhé
+   [Tham khảo Menu]
+","{""type"": ""text"", ""content"": {""conditions"": [{""type"": ""attribute"", ""name"": ""count_not_understand"", ""operator"": ""="", ""value"": ""1""}], ""text"": ""Xem ra Trợ Lý Ảo chưa giải đáp được các câu hỏi của bạn rồi 😊😊 . Mời bạn tham khảo thêm menu bên dưới nhé"", ""buttons"": [{""title"": ""Tham khảo Menu"", ""payload"": ""Menu#""}]}}",0.21,0,Other,,Other
+8/13/2020 15:06,198808,Nguyễn Hoàng Minh,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào Nguyễn Hoàng Minh, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào Nguyễn Hoàng Minh, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.24,0,Other,,Other
+8/13/2020 15:06,1827363,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
+8/13/2020 15:05,1753366,None,[khuyến mại],,,,Buttons clicked,,"Honda Việt Nam triển khai chương trình khuyến mại dành cho sản phẩm xe máy như sau:
+   [Mua xe Honda Winner X]
+   [Đang sử dụng Winner và Winner X]
+   [Mua xe Vision và Wave Alpha]
+","{""type"": ""text"", ""content"": {""text"": ""Honda Việt Nam triển khai chương trình khuyến mại dành cho sản phẩm xe máy như sau:"", ""buttons"": [{""title"": ""Mua xe Honda Winner X"", ""payload"": ""Khách hàng mua xe Honda Winner X#""}, {""title"": ""Đang sử dụng Winner và Winner X"", ""payload"": ""Khách hàng đang sử dụng xe Winner và Winner X#""}, {""title"": ""Mua xe Vision và Wave Alpha"", ""payload"": ""Khuyến mại Vision và Alpha#""}]}}",0.07,0,Other,MC,Product
+8/13/2020 15:05,1753366,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:05,1827361,None,[đại lý ô tô],,,,Buttons clicked,,"Tại mục Đại lý, bạn chọn Đại lý ô tô, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.
+
+","{""type"": ""text"", ""content"": {""text"": ""Tại mục Đại lý, bạn chọn Đại lý ô tô, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.\n""}}",0.07,0,Other,AM,Product
+8/13/2020 15:05,1827361,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.19,0,Other,,Other
+8/13/2020 15:05,1377030,duong van luan,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào duong van luan, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào duong van luan, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.19,0,Other,,Other
+8/13/2020 15:05,1696423,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.18,0,Other,,Other
+8/13/2020 15:04,533460,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:03,894717,phan điền sang,[đại lý xe máy],,,,Buttons clicked,,"Tại mục Đại lý, bạn chọn Đại lý xe máy, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.
+","{""type"": ""text"", ""content"": {""text"": ""Tại mục Đại lý, bạn chọn Đại lý xe máy, lựa chọn Tỉnh/thành phố và Quận/Huyện bạn muốn nhé.""}}",0.09,0,Other,MC,Product
+8/13/2020 15:03,894717,phan điền sang,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào phan điền sang, Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào phan điền sang, Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.22,0,Other,,Other
+8/13/2020 15:02,0,Đỗ Kim Hùng,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.26,0,Other,,Other
+8/13/2020 15:01,1827029,None,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.2,0,Other,,Other
+8/13/2020 15:01,1826687,Lâm Thinh Lượng,Bắt đầu,chao_hoi,1,"Intents
+ - 1 : chao_hoi 
+ - 0 : khuyen_cao 
+ - 0 : tam_biet 
+",Match intent - trigger a scenario,,"🖐Xin chào , Tôi là trợ lý ảo của Honda.
+Rất vui được hỗ trợ bạn 😊
+Bạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! 
+","{""type"": ""text"", ""content"": {""text"": ""🖐Xin chào , Tôi là trợ lý ảo của Honda.\nRất vui được hỗ trợ bạn 😊\nBạn có thể chọn các thông tin mình quan tâm dưới đây để tham khảo hoặc nhập các câu hỏi chi tiết nhé! ""}}",0.21,0,Other,,Other
