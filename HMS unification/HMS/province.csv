@@ -1,0 +1,64 @@
+code,name,name_en,name_acr,full_name,full_name_en,code_name
+01,Hà Nội,Ha Noi,hn,Thành phố Hà Nội,Ha Noi City,hanoi
+02,Hà Giang,Ha Giang,hg,Tỉnh Hà Giang,Ha Giang Province,hagiang
+04,Cao Bằng,Cao Bang,cb,Tỉnh Cao Bằng,Cao Bang Province,caobang
+06,Bắc Kạn,Bac Kan,bk,Tỉnh Bắc Kạn,Bac Kan Province,backan
+08,Tuyên Quang,Tuyen Quang,tq,Tỉnh Tuyên Quang,Tuyen Quang Province,tuyenquang
+10,Lào Cai,Lao Cai,lc,Tỉnh Lào Cai,Lao Cai Province,laocai
+11,Điện Biên,Dien Bien,db,Tỉnh Điện Biên,Dien Bien Province,dienbien
+12,Lai Châu,Lai Chau,lc,Tỉnh Lai Châu,Lai Chau Province,laichau
+14,Sơn La,Son La,sl,Tỉnh Sơn La,Son La Province,sonla
+15,Yên Bái,Yen Bai,yb,Tỉnh Yên Bái,Yen Bai Province,yenbai
+17,Hoà Bình,Hoa Binh,hb,Tỉnh Hoà Bình,Hoa Binh Province,hoabinh
+19,Thái Nguyên,Thai Nguyen,tn,Tỉnh Thái Nguyên,Thai Nguyen Province,thainguyen
+20,Lạng Sơn,Lang Son,ls,Tỉnh Lạng Sơn,Lang Son Province,langson
+22,Quảng Ninh,Quang Ninh,qn,Tỉnh Quảng Ninh,Quang Ninh Province,quangninh
+24,Bắc Giang,Bac Giang,bg,Tỉnh Bắc Giang,Bac Giang Province,bacgiang
+25,Phú Thọ,Phu Tho,pt,Tỉnh Phú Thọ,Phu Tho Province,phutho
+26,Vĩnh Phúc,Vinh Phuc,vp,Tỉnh Vĩnh Phúc,Vinh Phuc Province,vinhphuc
+27,Bắc Ninh,Bac Ninh,bn,Tỉnh Bắc Ninh,Bac Ninh Province,bacninh
+30,Hải Dương,Hai Duong,hd,Tỉnh Hải Dương,Hai Duong Province,haiduong
+31,Hải Phòng,Hai Phong,hp,Thành phố Hải Phòng,Hai Phong City,haiphong
+33,Hưng Yên,Hung Yen,hy,Tỉnh Hưng Yên,Hung Yen Province,hungyen
+34,Thái Bình,Thai Binh,tb,Tỉnh Thái Bình,Thai Binh Province,thaibinh
+35,Hà Nam,Ha Nam,hna,Tỉnh Hà Nam,Ha Nam Province,hanam
+36,Nam Định,Nam Dinh,nd,Tỉnh Nam Định,Nam Dinh Province,namdinh
+37,Ninh Bình,Ninh Binh,nb,Tỉnh Ninh Bình,Ninh Binh Province,ninhbinh
+38,Thanh Hóa,Thanh Hoa,th,Tỉnh Thanh Hóa,Thanh Hoa Province,thanhhoa
+40,Nghệ An,Nghe An,na,Tỉnh Nghệ An,Nghe An Province,nghean
+42,Hà Tĩnh,Ha Tinh,ht,Tỉnh Hà Tĩnh,Ha Tinh Province,hatinh
+44,Quảng Bình,Quang Binh,qb,Tỉnh Quảng Bình,Quang Binh Province,quangbinh
+45,Quảng Trị,Quang Tri,qt,Tỉnh Quảng Trị,Quang Tri Province,quangtri
+46,Thừa Thiên Huế,Thua Thien Hue,tth,Tỉnh Thừa Thiên Huế,Thua Thien Hue Province,thuathienhue
+48,Đà Nẵng,Da Nang,dn,Thành phố Đà Nẵng,Da Nang City,danang
+49,Quảng Nam,Quang Nam,qn,Tỉnh Quảng Nam,Quang Nam Province,quangnam
+51,Quảng Ngãi,Quang Ngai,qn,Tỉnh Quảng Ngãi,Quang Ngai Province,quangngai
+52,Bình Định,Binh Dinh,bd,Tỉnh Bình Định,Binh Dinh Province,binhdinh
+54,Phú Yên,Phu Yen,py,Tỉnh Phú Yên,Phu Yen Province,phuyen
+56,Khánh Hòa,Khanh Hoa,kh,Tỉnh Khánh Hòa,Khanh Hoa Province,khanhhoa
+58,Ninh Thuận,Ninh Thuan,nt,Tỉnh Ninh Thuận,Ninh Thuan Province,ninhthuan
+60,Bình Thuận,Binh Thuan,bt,Tỉnh Bình Thuận,Binh Thuan Province,binhthuan
+62,Kon Tum,Kon Tum,kt,Tỉnh Kon Tum,Kon Tum Province,kontum
+64,Gia Lai,Gia Lai,gl,Tỉnh Gia Lai,Gia Lai Province,gialai
+66,Đắk Lắk,Dak Lak,dl,Tỉnh Đắk Lắk,Dak Lak Province,daklak
+67,Đắk Nông,Dak Nong,dkn,Tỉnh Đắk Nông,Dak Nong Province,daknong
+68,Lâm Đồng,Lam Dong,ld,Tỉnh Lâm Đồng,Lam Dong Province,lamdong
+70,Bình Phước,Binh Phuoc,bp,Tỉnh Bình Phước,Binh Phuoc Province,binhphuoc
+72,Tây Ninh,Tay Ninh,tn,Tỉnh Tây Ninh,Tay Ninh Province,tayninh
+74,Bình Dương,Binh Duong,bd,Tỉnh Bình Dương,Binh Duong Province,binhduong
+75,Đồng Nai,Dong Nai,don,Tỉnh Đồng Nai,Dong Nai Province,dongnai
+79,Hồ Chí Minh,Ho Chi Minh,hcm,Thành phố Hồ Chí Minh,Ho Chi Minh City,hochiminh
+80,Long An,Long An,la,Tỉnh Long An,Long An Province,longan
+82,Tiền Giang,Tien Giang,tg,Tỉnh Tiền Giang,Tien Giang Province,tiengiang
+83,Bến Tre,Ben Tre,bt,Tỉnh Bến Tre,Ben Tre Province,bentre
+84,Trà Vinh,Tra Vinh,tv,Tỉnh Trà Vinh,Tra Vinh Province,travinh
+86,Vĩnh Long,Vinh Long,vl,Tỉnh Vĩnh Long,Vinh Long Province,vinhlong
+87,Đồng Tháp,Dong Thap,dt,Tỉnh Đồng Tháp,Dong Thap Province,dongthap
+89,An Giang,An Giang,ag,Tỉnh An Giang,An Giang Province,angiang
+91,Kiên Giang,Kien Giang,kg,Tỉnh Kiên Giang,Kien Giang Province,kiengiang
+92,Cần Thơ,Can Tho,ct,Thành phố Cần Thơ,Can Tho City,cantho
+93,Hậu Giang,Hau Giang,hg,Tỉnh Hậu Giang,Hau Giang Province,haugiang
+94,Sóc Trăng,Soc Trang,st,Tỉnh Sóc Trăng,Soc Trang Province,soctrang
+95,Bạc Liêu,Bac Lieu,bl,Tỉnh Bạc Liêu,Bac Lieu Province,baclieu
+96,Cà Mau,Ca Mau,cm,Tỉnh Cà Mau,Ca Mau Province,camau
+77,Bà Rịa - Vũng Tàu,Ba Ria - Vung Tau,brvt,Tỉnh Bà Rịa - Vũng Tàu,Ba Ria - Vung Tau Province,bariavungtau
